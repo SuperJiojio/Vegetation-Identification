@@ -35,7 +35,7 @@ Jiao Zhao:visualization (automated mask generator)
 
 ## Schedule and time:
 
-Due in the end of July(31.07.2023)
+Due in the mid of August(15.08.2023)
 
 The worktime of each person:around 70 hours including looking for relevant information, writing codes and debug. 
 
