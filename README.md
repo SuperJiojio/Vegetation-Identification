@@ -30,7 +30,7 @@ Peijing Zheng: data pre-processing and feature extraction
 
 Wanqiu Xiong: random forest model
 
-Jiao Zhao:forecast  
+Jiao Zhao:Use rfm to forecast  
 
 ## Schedule and time:
 
