@@ -26,9 +26,9 @@ The vector file of the forecast of vegetation and non-vegetation area of Salzbur
 
 ## Group division:
 
-Peijing Zheng: data pre-processing and feature extraction
+Wanqiu Xiong: data pre-processing and feature extraction
 
-Wanqiu Xiong: random forest model
+Peijing Zheng: random forest model
 
 Jiao Zhao:Use rfm to forecast  
 
