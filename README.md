@@ -3,7 +3,7 @@
 Wanqiu Xiong,Jiao Zhao,Peijing Zheng
 
 ## Abstract
-Use Random Forest Classifier from the scikit-learn library to create a training model based on the satellite imge data of Salzburg from 2000 to 2022. And use that model forecast the vegetation and non-vegetation area of Salzburg in 2023.
+Use Random Forest Classifier from the scikit-learn library to create a training model based on the satellite imge data of Salzburg from 2018 to 2022. And use that model forecast the vegetation and non-vegetation area of Salzburg in 2023.
 
 ## Concrete steps:
 
